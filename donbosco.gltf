@@ -17,19 +17,19 @@
 			"mesh":0,
 			"name":"model",
 			"rotation":[
-				0.7071067690849304,
+				0.7071068286895752,
 				0,
 				0,
 				0.7071068286895752
 			],
 			"scale":[
-				2.8022708892822266,
-				2.8022708892822266,
-				2.8022708892822266
+				4.540626049041748,
+				4.540626049041748,
+				4.540626049041748
 			],
 			"translation":[
-				0,
-				2.675884962081909,
+				-0.43176791071891785,
+				3.9792580604553223,
 				0
 			]
 		}
@@ -37,7 +37,7 @@
 	"materials":[
 		{
 			"doubleSided":true,
-			"name":"Material.002",
+			"name":"Material.004",
 			"normalTexture":{
 				"index":0
 			},
@@ -53,7 +53,7 @@
 	],
 	"meshes":[
 		{
-			"name":"model.002",
+			"name":"model.004",
 			"primitives":[
 				{
 					"attributes":{
@@ -84,18 +84,18 @@
 	"images":[
 		{
 			"mimeType":"image/png",
-			"name":"texture_normal.png.002",
-			"uri":"../../../../../8vo%20Semestre/TALLER%202/donbosco/Pbr/texture_normal.png"
+			"name":"texture_normal",
+			"uri":"texture_normal.png"
 		},
 		{
 			"mimeType":"image/png",
-			"name":"texture_diffuse.png.002",
-			"uri":"../../../../../8vo%20Semestre/TALLER%202/donbosco/Pbr/texture_diffuse.png"
+			"name":"texture_diffuse",
+			"uri":"texture_diffuse.png"
 		},
 		{
 			"mimeType":"image/png",
-			"name":"texture_roughness.png.002",
-			"uri":"../../../../../8vo%20Semestre/TALLER%202/donbosco/Pbr/texture_roughness.png"
+			"name":"texture_metallic.png-texture_roughness.png",
+			"uri":"texture_metallic_png-texture_roughness_png.png"
 		}
 	],
 	"accessors":[
